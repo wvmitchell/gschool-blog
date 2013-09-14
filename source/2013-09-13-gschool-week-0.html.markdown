@@ -15,4 +15,14 @@ So what exactly have we covered? Here's a few highlights:
 Ruby in 100 minutes - The fastest crash course I've ever seen to a new programming language.
 
 Event Manager - Our first project, the result of a self guided tutorial. 
-<a href='www.github.com/wvmitchell/event_manager'>My Code</a>
+<a href='https://www.github.com/wvmitchell/event_manager' target='blank'>My Code</a>
+
+Encryptor - Day two's assigned work, I've spent some extra time with this one to try and slim down my code.
+<a href='https://www.github.com/wvmitchell/encryptor' target='blank'>My Code</a>
+
+Microblogger - Day three, spent building this application which interacts with Twitter, making tweets and sending direct messages
+<a href='https://www.github.com/wvmitchell/microblogger' target='blank'>My Code</a>
+
+We've also spent a good amount of time discussing the culture of the software engineering world, and what all we can expect to get out of the program. So far, I've been blown away by the quality of my peers in the class. I've never been a part of such a smart, motivated, group of people. Moving forward, I'm excited to see what we're able to accomplish together.
+
+-Will
