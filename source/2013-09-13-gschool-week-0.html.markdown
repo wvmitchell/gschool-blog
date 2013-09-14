@@ -12,7 +12,7 @@ Getting up early to go code has been a change, but a welcome one. I've enjoyed t
 
 So what exactly have we covered? Here's a few highlights:
 
-	Ruby in 100 minutes - The fastest crash course I've ever seen to a new programming language.
+Ruby in 100 minutes - The fastest crash course I've ever seen to a new programming language.
 
-	Event Manager - Our first project, the result of a self guided tutorial. 
-	www.github.com/wvmitchell/event_manager
+Event Manager - Our first project, the result of a self guided tutorial. 
+<a href='www.github.com/wvmitchell/event_manager'>My Code</a>
