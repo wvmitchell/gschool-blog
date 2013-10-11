@@ -34,6 +34,6 @@ improved programming skills to the world of web applications. I'm both excited
 about the shift in focus, as well as working on projects which I'll be able to
 more easily share with friends and family.
 
-Until we meet again,
-Will
+Until we meet again,    
+Will    
 @wvmitchell
