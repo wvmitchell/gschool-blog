@@ -4,8 +4,6 @@ date: 2013-10-28 15:22 UTC
 tags:
 ---
 
-##Stumbling across the finish line
-
 Last week we finished our ideabox, and while I both finished the base project,
 and managed to complete some extensions, I was far from pleased with my final
 result. As I see it, the reason for this is twofold. The first week of our
