@@ -4,8 +4,6 @@ date: 2013-11-01 15:23 UTC
 tags:
 ---
 
-#Sitting at the 1/3 mark
-
 It's hard to believe, but 8 of the 24 weeks I'll be spending here are gSchool
 are now gone. The pace of the class, as expected, is pretty daunting. I'm
 currently reading 5 different books related to the material we're covering in
